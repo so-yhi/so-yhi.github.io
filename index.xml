@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codex</title>
+    <link>https://example.org/</link>
+    <description>Recent content on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 15 Nov 2021 14:14:06 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://example.org/blog/test/</link>
+      <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
+      
+      <guid>https://example.org/blog/test/</guid>
+      <description>Bonjour je suis un test hehehehe</description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>https://example.org/blog/test2/</link>
+      <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
+      
+      <guid>https://example.org/blog/test2/</guid>
+      <description>Mon super test</description>
+    </item>
+    
+  </channel>
+</rss>
