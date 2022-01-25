@@ -23,7 +23,8 @@
       <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
       
       <guid>https://example.org/blog/test2/</guid>
-      <description>Mon super test</description>
+      <description>Mon super test
+Tcheu on est déployé!</description>
     </item>
     
   </channel>
