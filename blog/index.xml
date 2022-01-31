@@ -7,7 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 14:14:06 +0100</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jan 2022 19:54:46 +0100</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expérimentation</title>
+      <link>https://example.org/blog/experimentation/</link>
+      <pubDate>Mon, 31 Jan 2022 19:54:46 +0100</pubDate>
+      
+      <guid>https://example.org/blog/experimentation/</guid>
+      <description>Expérimentation J&amp;rsquo;ai eu l&amp;rsquo;occasion de participer à plusieurs game jam dans les dernières années. En générale, mon rôle à consisté à la gestion du preojet, en tant que coordinatrice et cheffe de projet ainsi que UX/UI designer. J&amp;rsquo;ai également participé à la conception graphiques de différents éléments. Cela m&amp;rsquo;a permis de réfléchir à l&amp;rsquo;enchaînement des scènes, du lancement du jeu (clic de la souris) à la sortie (exit) du jeu, en passant par les menus, écrans de chargement et tutoriels.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomie</title>
+      <link>https://example.org/blog/taxonomie/</link>
+      <pubDate>Thu, 27 Jan 2022 22:46:22 +0100</pubDate>
+      
+      <guid>https://example.org/blog/taxonomie/</guid>
+      <description>Mieux vaut quelque chose que rien Ci-dessous, des mots clés utilisés pour mes recherches
+ Serious game Gamification Gaming Game design Level design Storytelling Learning E-learning UX UI Engagement Accessibilité Nintendo Microsoft 3D 2D Skill tree  </description>
+    </item>
+    
+    <item>
+      <title>Storytelling and Hormones</title>
+      <link>https://example.org/blog/storytelling-and-hormones/</link>
+      <pubDate>Wed, 05 Jan 2022 09:34:22 +0100</pubDate>
+      
+      <guid>https://example.org/blog/storytelling-and-hormones/</guid>
+      <description>The magical science of storytelling | TEDxStockholm 🖋️ Auteur.trice David JP Phillips
+🖥️ Source : https://youtu.be/Nj-hdQMa3uA
+🗓️Date de parution: 2015
+Introduction Le storytelling dans le monde capitaliste est un levier pour augmenter virtuellement la valeur d’un objet. Par exemple, si on vous propose une enclume à la vente, peu de chance que vous l’achetiez. En revanche, si on vous propose une enclume qui a été celle où un artiste s’est assi pour réfléchir et a ainsi créé sa meilleure oeuvre, il est possible que vous achetiez ce bien.</description>
+    </item>
+    
+    <item>
+      <title>Level design</title>
+      <link>https://example.org/blog/level-design/</link>
+      <pubDate>Tue, 21 Dec 2021 17:14:06 +0100</pubDate>
+      
+      <guid>https://example.org/blog/level-design/</guid>
+      <description>Level Design: How to Motivate Players to Keep Them Engaged &amp;amp; When To Know Your Limits 🖋️ Auteur.trice Dustin Tayler
+🖥️ Source : https://www.gamedesigning.org/learn/level-design/
+🗓️Date de parution: 15.01.2022
+ To keep people engaged, you have to keep them beliving in the world you create Level should not be too frustrating or boring You have to manage the pacing of the level and properly challenge the player Difficulty should go up gradually: either by increasing the complexity or by adding more ennemies.</description>
+    </item>
+    
     <item>
       <title>Gamification for buisnesses</title>
       <link>https://example.org/blog/gamification-for-buisnesses/</link>
@@ -22,22 +65,26 @@ Stratégie de gamification La gamification peut être appliquée en dehors des j
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://example.org/blog/test/</link>
+      <title>Mon ikigai</title>
+      <link>https://example.org/blog/ikigai/</link>
       <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
       
-      <guid>https://example.org/blog/test/</guid>
-      <description>Bonjour je suis un super super test hehehehe</description>
+      <guid>https://example.org/blog/ikigai/</guid>
+      <description>Ayant quelques soucis techniques, voici mon ikigaï.</description>
     </item>
     
     <item>
-      <title>Test 2</title>
-      <link>https://example.org/blog/test2/</link>
-      <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
+      <title>Accessibility</title>
+      <link>https://example.org/blog/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/test2/</guid>
-      <description>Mon super test
-Tcheu on est déployé! </description>
+      <guid>https://example.org/blog/accessibility/</guid>
+      <description>Accessibility isn’t just about the player’: A Q&amp;amp;A with gaming accessibility and sensitivity designer Joanna Blackhart
+🖋️ Auteur.trice : Joanna Blackhart (https://twitter.com/JoannaBlackhart)
+🖥️ Source :
+https://digiday.com/marketing/accessibility-isnt-just-about-the-player-a-qa-with-gaming-accessibility-and-sensitivity-designer-joanna-blackhart/
+🗓️Date de parution: 15.11.2021
+La démocratisation du jeu vidéo amène un nouveau public. De plus, le monde occidental tend à être plus inclusif et cela commence à se voir dans le domaine du jeu vidéo également. En plus de l’accessibilité, il y a une question de sensibilité, notemment pour les personnes LGBTQ+ et les personnes de couleurs.</description>
     </item>
     
   </channel>
