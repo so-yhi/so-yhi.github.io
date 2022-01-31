@@ -9,6 +9,19 @@
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 15 Nov 2021 14:14:06 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gamification for buisnesses</title>
+      <link>https://example.org/blog/gamification-for-buisnesses/</link>
+      <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
+      
+      <guid>https://example.org/blog/gamification-for-buisnesses/</guid>
+      <description>🖋️ Auteur.trice Cameron Brain
+🖥️ Source : https://everyonesocial.com/blog/gamification-strategy-tips/
+🗓️Date de parution: 25.06.2021
+Mots clés buisness, gamification, corporate gamification
+Stratégie de gamification La gamification peut être appliquée en dehors des jeux vidéos et applications et à quasiment tous les publics cibles, l’humain étant attiré par la gratification de manière générale. Cette stratégie permet d’augmenter l’engagement que ce soit de la clientèle ou des employés. Attention à ne pas aller trop loin, cela peut avoir l’effet inverse de celui souhaité.</description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://example.org/blog/test/</link>
       <pubDate>Mon, 15 Nov 2021 14:14:06 +0100</pubDate>
